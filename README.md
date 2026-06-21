@@ -6,7 +6,7 @@ Every syntax color is mapped directly from VS Code's source: yellow functions, t
 
 ## Installation
 
-Search for **Dark+** in Zed's extension marketplace (`cmd+shift+p` → `zed: extensions`).
+Search for **VSCode Dark+** in Zed's extension marketplace (`cmd+shift+p` → `zed: extensions`).
 
 ## Colors
 
