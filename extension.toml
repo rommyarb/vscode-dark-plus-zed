@@ -1,0 +1,7 @@
+id = "dark-plus"
+name = "Dark+"
+version = "0.1.0"
+schema_version = 1
+authors = ["rommyarb"]
+description = "A faithful port of Visual Studio Code's iconic Dark+ theme to Zed."
+repository = "https://github.com/rommyarb/dark-plus"
