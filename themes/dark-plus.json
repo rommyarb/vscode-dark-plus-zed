@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Dark+",
+  "name": "VSCode Dark+",
   "author": "rommyarb",
   "themes": [
     {
-      "name": "Dark+",
+      "name": "VSCode Dark+",
       "appearance": "dark",
       "style": {
         "border": "#474747ff",
